@@ -131,8 +131,9 @@ Partial Class FrmMain
         Me.tmrWaitingforPSO2 = New System.Windows.Forms.Timer(Me.components)
         Me.txtFiles = New System.Windows.Forms.TextBox()
         Me.lblStatus = New System.Windows.Forms.Label()
-        Me.DLS = New PSO2_Tweaker.My.MyWebClient()
         Me.WebBrowser1 = New System.Windows.Forms.WebBrowser()
+        Me.btnAllEngPatches = New System.Windows.Forms.Button()
+        Me.DLS = New PSO2_Tweaker.My.MyWebClient()
         Me.cmsTextBarOptions.SuspendLayout()
         Me.cmsProgressBar.SuspendLayout()
         Me.SuspendLayout()
@@ -174,7 +175,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRemoveCensor.BackgroundStyle.Class = ""
+        Me.chkRemoveCensor.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRemoveCensor.Name = "chkRemoveCensor"
         '
         'chkRemovePC
@@ -184,7 +185,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRemovePC.BackgroundStyle.Class = ""
+        Me.chkRemovePC.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRemovePC.Name = "chkRemovePC"
         '
         'chkRemoveVita
@@ -194,7 +195,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRemoveVita.BackgroundStyle.Class = ""
+        Me.chkRemoveVita.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRemoveVita.Name = "chkRemoveVita"
         '
         'PBMainBar
@@ -216,7 +217,7 @@ Partial Class FrmMain
         Me.PBMainBar.BackgroundStyle.BorderRightWidth = 1
         Me.PBMainBar.BackgroundStyle.BorderTop = DevComponents.DotNetBar.eStyleBorderType.Solid
         Me.PBMainBar.BackgroundStyle.BorderTopWidth = 1
-        Me.PBMainBar.BackgroundStyle.Class = ""
+        Me.PBMainBar.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.PBMainBar.BackgroundStyle.TextAlignment = DevComponents.DotNetBar.eStyleTextAlignment.Center
         Me.PBMainBar.BackgroundStyle.TextColor = System.Drawing.Color.Black
         Me.PBMainBar.ChunkColor = System.Drawing.Color.Green
@@ -233,7 +234,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRemoveNVidia.BackgroundStyle.Class = ""
+        Me.chkRemoveNVidia.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRemoveNVidia.Name = "chkRemoveNVidia"
         '
         'chkRemoveSEGA
@@ -243,7 +244,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRemoveSEGA.BackgroundStyle.Class = ""
+        Me.chkRemoveSEGA.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRemoveSEGA.Name = "chkRemoveSEGA"
         '
         'chkSwapOP
@@ -253,7 +254,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkSwapOP.BackgroundStyle.Class = ""
+        Me.chkSwapOP.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkSwapOP.Name = "chkSwapOP"
         '
         'lblDirectoryLabel
@@ -263,7 +264,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.lblDirectoryLabel.BackgroundStyle.Class = ""
+        Me.lblDirectoryLabel.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.lblDirectoryLabel.Name = "lblDirectoryLabel"
         '
         'lblDirectory
@@ -272,7 +273,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.lblDirectory.BackgroundStyle.Class = ""
+        Me.lblDirectory.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         resources.ApplyResources(Me.lblDirectory, "lblDirectory")
         Me.lblDirectory.Name = "lblDirectory"
         '
@@ -283,7 +284,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRestoreCensor.BackgroundStyle.Class = ""
+        Me.chkRestoreCensor.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRestoreCensor.Name = "chkRestoreCensor"
         '
         'chkRestorePC
@@ -293,7 +294,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRestorePC.BackgroundStyle.Class = ""
+        Me.chkRestorePC.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRestorePC.Name = "chkRestorePC"
         '
         'chkRestoreVita
@@ -303,7 +304,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRestoreVita.BackgroundStyle.Class = ""
+        Me.chkRestoreVita.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRestoreVita.Name = "chkRestoreVita"
         '
         'chkRestoreNVidia
@@ -313,7 +314,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRestoreNVidia.BackgroundStyle.Class = ""
+        Me.chkRestoreNVidia.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRestoreNVidia.Name = "chkRestoreNVidia"
         '
         'chkRestoreSEGA
@@ -323,7 +324,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.chkRestoreSEGA.BackgroundStyle.Class = ""
+        Me.chkRestoreSEGA.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.chkRestoreSEGA.Name = "chkRestoreSEGA"
         '
         'btnApplyChanges
@@ -369,7 +370,7 @@ Partial Class FrmMain
         '
         '
         '
-        Me.RibbonControl1.BackgroundStyle.Class = ""
+        Me.RibbonControl1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.RibbonControl1.CaptionVisible = True
         Me.RibbonControl1.Cursor = System.Windows.Forms.Cursors.Default
         resources.ApplyResources(Me.RibbonControl1, "RibbonControl1")
@@ -377,6 +378,21 @@ Partial Class FrmMain
         Me.RibbonControl1.Name = "RibbonControl1"
         Me.RibbonControl1.QuickToolbarItems.AddRange(New DevComponents.DotNetBar.BaseItem() {Me.Office2007StartButton1})
         Me.RibbonControl1.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled
+        Me.RibbonControl1.SystemText.MaximizeRibbonText = resources.GetString("RibbonControl1.SystemText.MaximizeRibbonText")
+        Me.RibbonControl1.SystemText.MinimizeRibbonText = resources.GetString("RibbonControl1.SystemText.MinimizeRibbonText")
+        Me.RibbonControl1.SystemText.QatAddItemText = resources.GetString("RibbonControl1.SystemText.QatAddItemText")
+        Me.RibbonControl1.SystemText.QatCustomizeMenuLabel = resources.GetString("RibbonControl1.SystemText.QatCustomizeMenuLabel")
+        Me.RibbonControl1.SystemText.QatCustomizeText = resources.GetString("RibbonControl1.SystemText.QatCustomizeText")
+        Me.RibbonControl1.SystemText.QatDialogAddButton = resources.GetString("RibbonControl1.SystemText.QatDialogAddButton")
+        Me.RibbonControl1.SystemText.QatDialogCancelButton = resources.GetString("RibbonControl1.SystemText.QatDialogCancelButton")
+        Me.RibbonControl1.SystemText.QatDialogCaption = resources.GetString("RibbonControl1.SystemText.QatDialogCaption")
+        Me.RibbonControl1.SystemText.QatDialogCategoriesLabel = resources.GetString("RibbonControl1.SystemText.QatDialogCategoriesLabel")
+        Me.RibbonControl1.SystemText.QatDialogOkButton = resources.GetString("RibbonControl1.SystemText.QatDialogOkButton")
+        Me.RibbonControl1.SystemText.QatDialogPlacementCheckbox = resources.GetString("RibbonControl1.SystemText.QatDialogPlacementCheckbox")
+        Me.RibbonControl1.SystemText.QatDialogRemoveButton = resources.GetString("RibbonControl1.SystemText.QatDialogRemoveButton")
+        Me.RibbonControl1.SystemText.QatPlaceAboveRibbonText = resources.GetString("RibbonControl1.SystemText.QatPlaceAboveRibbonText")
+        Me.RibbonControl1.SystemText.QatPlaceBelowRibbonText = resources.GetString("RibbonControl1.SystemText.QatPlaceBelowRibbonText")
+        Me.RibbonControl1.SystemText.QatRemoveItemText = resources.GetString("RibbonControl1.SystemText.QatRemoveItemText")
         Me.RibbonControl1.TabGroupHeight = 14
         '
         'Office2007StartButton1
@@ -397,9 +413,14 @@ Partial Class FrmMain
         '
         '
         Me.ItemContainer1.BackgroundStyle.Class = "RibbonFileMenuContainer"
+        Me.ItemContainer1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.ItemContainer1.LayoutOrientation = DevComponents.DotNetBar.eOrientation.Vertical
         Me.ItemContainer1.Name = "ItemContainer1"
         Me.ItemContainer1.SubItems.AddRange(New DevComponents.DotNetBar.BaseItem() {Me.ItemContainer2, Me.ItemContainer4})
+        '
+        '
+        '
+        Me.ItemContainer1.TitleStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         '
         'ItemContainer2
         '
@@ -407,9 +428,14 @@ Partial Class FrmMain
         '
         '
         Me.ItemContainer2.BackgroundStyle.Class = "RibbonFileMenuTwoColumnContainer"
+        Me.ItemContainer2.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.ItemContainer2.ItemSpacing = 0
         Me.ItemContainer2.Name = "ItemContainer2"
         Me.ItemContainer2.SubItems.AddRange(New DevComponents.DotNetBar.BaseItem() {Me.ItemContainer3})
+        '
+        '
+        '
+        Me.ItemContainer2.TitleStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         '
         'ItemContainer3
         '
@@ -417,10 +443,15 @@ Partial Class FrmMain
         '
         '
         Me.ItemContainer3.BackgroundStyle.Class = "RibbonFileMenuColumnOneContainer"
+        Me.ItemContainer3.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.ItemContainer3.LayoutOrientation = DevComponents.DotNetBar.eOrientation.Vertical
         Me.ItemContainer3.MinimumSize = New System.Drawing.Size(120, 0)
         Me.ItemContainer3.Name = "ItemContainer3"
         Me.ItemContainer3.SubItems.AddRange(New DevComponents.DotNetBar.BaseItem() {Me.btnLaunchPSO2fromORB, Me.btnSelectPSODir, Me.ButtonInstall, Me.btnRestoreBackups, Me.ButtonItem1, Me.ButtonItem2, Me.btnOtherStuff, Me.ButtonItem3, Me.btnDonations, Me.btnNewShit, Me.BtnUpdatePso2, Me.btnDownloadPrepatch, Me.btnCheckForStoryUpdates, Me.chkAlwaysOnTop, Me.chkItemTranslation, Me.btnConfigureItemTranslation})
+        '
+        '
+        '
+        Me.ItemContainer3.TitleStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         '
         'btnLaunchPSO2fromORB
         '
@@ -780,9 +811,14 @@ Partial Class FrmMain
         '
         '
         Me.ItemContainer4.BackgroundStyle.Class = "RibbonFileMenuBottomContainer"
+        Me.ItemContainer4.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         Me.ItemContainer4.HorizontalItemAlignment = DevComponents.DotNetBar.eHorizontalItemsAlignment.Right
         Me.ItemContainer4.Name = "ItemContainer4"
         Me.ItemContainer4.SubItems.AddRange(New DevComponents.DotNetBar.BaseItem() {Me.btnPSO2Options, Me.btnOptions, Me.btnPlugins, Me.btnExit})
+        '
+        '
+        '
+        Me.ItemContainer4.TitleStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square
         '
         'btnPSO2Options
         '
@@ -852,6 +888,18 @@ Partial Class FrmMain
         resources.ApplyResources(Me.lblStatus, "lblStatus")
         Me.lblStatus.Name = "lblStatus"
         '
+        'WebBrowser1
+        '
+        resources.ApplyResources(Me.WebBrowser1, "WebBrowser1")
+        Me.WebBrowser1.Name = "WebBrowser1"
+        Me.WebBrowser1.Url = New System.Uri("", System.UriKind.Relative)
+        '
+        'btnAllEngPatches
+        '
+        resources.ApplyResources(Me.btnAllEngPatches, "btnAllEngPatches")
+        Me.btnAllEngPatches.Name = "btnAllEngPatches"
+        Me.btnAllEngPatches.UseVisualStyleBackColor = True
+        '
         'DLS
         '
         Me.DLS.BaseAddress = ""
@@ -863,17 +911,12 @@ Partial Class FrmMain
         Me.DLS.Timeout = 10000
         Me.DLS.UseDefaultCredentials = False
         '
-        'WebBrowser1
-        '
-        resources.ApplyResources(Me.WebBrowser1, "WebBrowser1")
-        Me.WebBrowser1.Name = "WebBrowser1"
-        Me.WebBrowser1.Url = New System.Uri("", System.UriKind.Relative)
-        '
         'FrmMain
         '
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.GradientActiveCaption
+        Me.Controls.Add(Me.btnAllEngPatches)
         Me.Controls.Add(Me.WebBrowser1)
         Me.Controls.Add(Me.lblStatus)
         Me.Controls.Add(Me.txtFiles)
@@ -1019,4 +1062,5 @@ Partial Class FrmMain
     Friend WithEvents btnInstallGermanPatch As DevComponents.DotNetBar.ButtonItem
     Friend WithEvents btnJPEnemyNames As DevComponents.DotNetBar.ButtonItem
     Friend WithEvents btnJPETrials As DevComponents.DotNetBar.ButtonItem
+    Friend WithEvents btnAllEngPatches As Button
 End Class

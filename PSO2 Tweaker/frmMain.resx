@@ -144,7 +144,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtHTML.ZOrder" xml:space="preserve">
-    <value>23</value>
+    <value>24</value>
   </data>
   <metadata name="cmsTextBarOptions.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>232, 17</value>
@@ -186,7 +186,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;rtbDebug.ZOrder" xml:space="preserve">
-    <value>22</value>
+    <value>23</value>
   </data>
   <metadata name="OpenFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>90, 17</value>
@@ -210,13 +210,13 @@
     <value>chkRemoveCensor</value>
   </data>
   <data name="&gt;&gt;chkRemoveCensor.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRemoveCensor.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRemoveCensor.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>22</value>
   </data>
   <data name="chkRemovePC.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -237,13 +237,13 @@
     <value>chkRemovePC</value>
   </data>
   <data name="&gt;&gt;chkRemovePC.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRemovePC.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRemovePC.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>21</value>
   </data>
   <data name="chkRemoveVita.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -264,13 +264,13 @@
     <value>chkRemoveVita</value>
   </data>
   <data name="&gt;&gt;chkRemoveVita.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRemoveVita.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRemoveVita.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>20</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="PBMainBar.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
@@ -289,13 +289,13 @@
     <value>PBMainBar</value>
   </data>
   <data name="&gt;&gt;PBMainBar.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.ProgressBarX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.ProgressBarX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;PBMainBar.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;PBMainBar.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>19</value>
   </data>
   <data name="chkRemoveNVidia.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -316,13 +316,13 @@
     <value>chkRemoveNVidia</value>
   </data>
   <data name="&gt;&gt;chkRemoveNVidia.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRemoveNVidia.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRemoveNVidia.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>18</value>
   </data>
   <data name="chkRemoveSEGA.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -343,13 +343,13 @@
     <value>chkRemoveSEGA</value>
   </data>
   <data name="&gt;&gt;chkRemoveSEGA.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRemoveSEGA.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRemoveSEGA.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>17</value>
   </data>
   <data name="chkSwapOP.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -373,19 +373,19 @@
     <value>chkSwapOP</value>
   </data>
   <data name="&gt;&gt;chkSwapOP.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkSwapOP.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkSwapOP.ZOrder" xml:space="preserve">
-    <value>24</value>
+    <value>25</value>
   </data>
   <data name="lblDirectoryLabel.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="lblDirectoryLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 44</value>
+    <value>45, 34</value>
   </data>
   <data name="lblDirectoryLabel.Size" type="System.Drawing.Size, System.Drawing">
     <value>139, 15</value>
@@ -400,16 +400,16 @@
     <value>lblDirectoryLabel</value>
   </data>
   <data name="&gt;&gt;lblDirectoryLabel.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;lblDirectoryLabel.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblDirectoryLabel.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="lblDirectory.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 55</value>
+    <value>45, 49</value>
   </data>
   <data name="lblDirectory.Size" type="System.Drawing.Size, System.Drawing">
     <value>339, 17</value>
@@ -424,13 +424,13 @@
     <value>lblDirectory</value>
   </data>
   <data name="&gt;&gt;lblDirectory.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.LabelX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;lblDirectory.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblDirectory.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>11</value>
   </data>
   <data name="chkRestoreCensor.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -451,13 +451,13 @@
     <value>chkRestoreCensor</value>
   </data>
   <data name="&gt;&gt;chkRestoreCensor.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRestoreCensor.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRestoreCensor.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>16</value>
   </data>
   <data name="chkRestorePC.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -478,13 +478,13 @@
     <value>chkRestorePC</value>
   </data>
   <data name="&gt;&gt;chkRestorePC.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRestorePC.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRestorePC.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>15</value>
   </data>
   <data name="chkRestoreVita.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -505,13 +505,13 @@
     <value>chkRestoreVita</value>
   </data>
   <data name="&gt;&gt;chkRestoreVita.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRestoreVita.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRestoreVita.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>14</value>
   </data>
   <data name="chkRestoreNVidia.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -532,13 +532,13 @@
     <value>chkRestoreNVidia</value>
   </data>
   <data name="&gt;&gt;chkRestoreNVidia.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRestoreNVidia.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRestoreNVidia.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>13</value>
   </data>
   <data name="chkRestoreSEGA.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -559,13 +559,13 @@
     <value>chkRestoreSEGA</value>
   </data>
   <data name="&gt;&gt;chkRestoreSEGA.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Controls.CheckBoxX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkRestoreSEGA.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;chkRestoreSEGA.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>12</value>
   </data>
   <data name="btnApplyChanges.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 219</value>
@@ -586,13 +586,13 @@
     <value>btnApplyChanges</value>
   </data>
   <data name="&gt;&gt;btnApplyChanges.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnApplyChanges.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnApplyChanges.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
   <data name="btnLaunchPSO2.Location" type="System.Drawing.Point, System.Drawing">
     <value>254, 219</value>
@@ -613,13 +613,13 @@
     <value>btnLaunchPSO2</value>
   </data>
   <data name="&gt;&gt;btnLaunchPSO2.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnLaunchPSO2.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnLaunchPSO2.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>10</value>
   </data>
   <metadata name="cmsProgressBar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>389, 17</value>
@@ -658,7 +658,7 @@
     <value>0, 0</value>
   </data>
   <data name="RibbonControl1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>0, 0, 0, 2</value>
+    <value>0, 0, 0, 3</value>
   </data>
   <data name="btnLaunchPSO2fromORB.Text" xml:space="preserve">
     <value>Launch Phantasy Star Online 2</value>
@@ -1002,6 +1002,51 @@
   <data name="RibbonControl1.Size" type="System.Drawing.Size, System.Drawing">
     <value>796, 44</value>
   </data>
+  <data name="RibbonControl1.SystemText.MaximizeRibbonText" xml:space="preserve">
+    <value>&amp;Maximize the Ribbon</value>
+  </data>
+  <data name="RibbonControl1.SystemText.MinimizeRibbonText" xml:space="preserve">
+    <value>Mi&amp;nimize the Ribbon</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatAddItemText" xml:space="preserve">
+    <value>&amp;Add to Quick Access Toolbar</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatCustomizeMenuLabel" xml:space="preserve">
+    <value>&lt;b&gt;Customize Quick Access Toolbar&lt;/b&gt;</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatCustomizeText" xml:space="preserve">
+    <value>&amp;Customize Quick Access Toolbar...</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatDialogAddButton" xml:space="preserve">
+    <value>&amp;Add &gt;&gt;</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatDialogCancelButton" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatDialogCaption" xml:space="preserve">
+    <value>Customize Quick Access Toolbar</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatDialogCategoriesLabel" xml:space="preserve">
+    <value>&amp;Choose commands from:</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatDialogOkButton" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatDialogPlacementCheckbox" xml:space="preserve">
+    <value>&amp;Place Quick Access Toolbar below the Ribbon</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatDialogRemoveButton" xml:space="preserve">
+    <value>&amp;Remove</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatPlaceAboveRibbonText" xml:space="preserve">
+    <value>&amp;Place Quick Access Toolbar above the Ribbon</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatPlaceBelowRibbonText" xml:space="preserve">
+    <value>&amp;Place Quick Access Toolbar below the Ribbon</value>
+  </data>
+  <data name="RibbonControl1.SystemText.QatRemoveItemText" xml:space="preserve">
+    <value>&amp;Remove from Quick Access Toolbar</value>
+  </data>
   <data name="RibbonControl1.TabIndex" type="System.Int32, mscorlib">
     <value>70</value>
   </data>
@@ -1012,13 +1057,13 @@
     <value>RibbonControl1</value>
   </data>
   <data name="&gt;&gt;RibbonControl1.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.RibbonControl, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.RibbonControl, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;RibbonControl1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;RibbonControl1.ZOrder" xml:space="preserve">
-    <value>25</value>
+    <value>26</value>
   </data>
   <data name="btnAnnouncements.Location" type="System.Drawing.Point, System.Drawing">
     <value>406, 30</value>
@@ -1039,13 +1084,13 @@
     <value>btnAnnouncements</value>
   </data>
   <data name="&gt;&gt;btnAnnouncements.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonX, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnAnnouncements.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnAnnouncements.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>9</value>
   </data>
   <data name="WebBrowser4.Location" type="System.Drawing.Point, System.Drawing">
     <value>420, 31</value>
@@ -1069,7 +1114,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;WebBrowser4.ZOrder" xml:space="preserve">
-    <value>26</value>
+    <value>27</value>
   </data>
   <data name="txtPSO2DefaultINI.Location" type="System.Drawing.Point, System.Drawing">
     <value>201, 129</value>
@@ -1368,7 +1413,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtPSO2DefaultINI.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>8</value>
   </data>
   <metadata name="tmrWaitingforPSO2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>527, 17</value>
@@ -1401,7 +1446,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtFiles.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="lblStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1431,7 +1476,58 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblStatus.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="WebBrowser1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>420, 30</value>
+  </data>
+  <data name="WebBrowser1.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>19, 20</value>
+  </data>
+  <data name="WebBrowser1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>376, 458</value>
+  </data>
+  <data name="WebBrowser1.TabIndex" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="&gt;&gt;WebBrowser1.Name" xml:space="preserve">
+    <value>WebBrowser1</value>
+  </data>
+  <data name="&gt;&gt;WebBrowser1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.WebBrowser, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WebBrowser1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;WebBrowser1.ZOrder" xml:space="preserve">
     <value>3</value>
+  </data>
+  <data name="btnAllEngPatches.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnAllEngPatches.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 72</value>
+  </data>
+  <data name="btnAllEngPatches.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 23</value>
+  </data>
+  <data name="btnAllEngPatches.TabIndex" type="System.Int32, mscorlib">
+    <value>80</value>
+  </data>
+  <data name="btnAllEngPatches.Text" xml:space="preserve">
+    <value>Install all english patches</value>
+  </data>
+  <data name="&gt;&gt;btnAllEngPatches.Name" xml:space="preserve">
+    <value>btnAllEngPatches</value>
+  </data>
+  <data name="&gt;&gt;btnAllEngPatches.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAllEngPatches.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnAllEngPatches.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <metadata name="DLS.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
@@ -1477,30 +1573,6 @@
         YXRpb24uQ29tcGFyZUluZm8EAAAABm1fbmFtZQl3aW4zMkxDSUQHY3VsdHVyZQ1tX1NvcnRWZXJzaW9u
         AQAAAwgIIFN5c3RlbS5HbG9iYWxpemF0aW9uLlNvcnRWZXJzaW9uCQoAAAAAAAAAfwAAAAoL
 </value>
-  </data>
-  <data name="WebBrowser1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>420, 30</value>
-  </data>
-  <data name="WebBrowser1.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>19, 20</value>
-  </data>
-  <data name="WebBrowser1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>376, 458</value>
-  </data>
-  <data name="WebBrowser1.TabIndex" type="System.Int32, mscorlib">
-    <value>79</value>
-  </data>
-  <data name="&gt;&gt;WebBrowser1.Name" xml:space="preserve">
-    <value>WebBrowser1</value>
-  </data>
-  <data name="&gt;&gt;WebBrowser1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.WebBrowser, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;WebBrowser1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;WebBrowser1.ZOrder" xml:space="preserve">
-    <value>2</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -7723,439 +7795,439 @@
     <value>Office2007StartButton1</value>
   </data>
   <data name="&gt;&gt;Office2007StartButton1.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Office2007StartButton, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Office2007StartButton, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ItemContainer1.Name" xml:space="preserve">
     <value>ItemContainer1</value>
   </data>
   <data name="&gt;&gt;ItemContainer1.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ItemContainer2.Name" xml:space="preserve">
     <value>ItemContainer2</value>
   </data>
   <data name="&gt;&gt;ItemContainer2.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ItemContainer3.Name" xml:space="preserve">
     <value>ItemContainer3</value>
   </data>
   <data name="&gt;&gt;ItemContainer3.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnLaunchPSO2fromORB.Name" xml:space="preserve">
     <value>btnLaunchPSO2fromORB</value>
   </data>
   <data name="&gt;&gt;btnLaunchPSO2fromORB.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnSelectPSODir.Name" xml:space="preserve">
     <value>btnSelectPSODir</value>
   </data>
   <data name="&gt;&gt;btnSelectPSODir.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ButtonInstall.Name" xml:space="preserve">
     <value>ButtonInstall</value>
   </data>
   <data name="&gt;&gt;ButtonInstall.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnENPatch.Name" xml:space="preserve">
     <value>btnENPatch</value>
   </data>
   <data name="&gt;&gt;btnENPatch.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnLargeFiles.Name" xml:space="preserve">
     <value>btnLargeFiles</value>
   </data>
   <data name="&gt;&gt;btnLargeFiles.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnLargeFilesTRANSAM.Name" xml:space="preserve">
     <value>btnLargeFilesTRANSAM</value>
   </data>
   <data name="&gt;&gt;btnLargeFilesTRANSAM.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnStoryPatchNew.Name" xml:space="preserve">
     <value>btnStoryPatchNew</value>
   </data>
   <data name="&gt;&gt;btnStoryPatchNew.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnInstallGermanPatch.Name" xml:space="preserve">
     <value>btnInstallGermanPatch</value>
   </data>
   <data name="&gt;&gt;btnInstallGermanPatch.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRussianPatch.Name" xml:space="preserve">
     <value>btnRussianPatch</value>
   </data>
   <data name="&gt;&gt;btnRussianPatch.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRussianBigFiles.Name" xml:space="preserve">
     <value>btnRussianBigFiles</value>
   </data>
   <data name="&gt;&gt;btnRussianBigFiles.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnInstallSpanishPatch.Name" xml:space="preserve">
     <value>btnInstallSpanishPatch</value>
   </data>
   <data name="&gt;&gt;btnInstallSpanishPatch.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRestoreBackups.Name" xml:space="preserve">
     <value>btnRestoreBackups</value>
   </data>
   <data name="&gt;&gt;btnRestoreBackups.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRestoreENBackup.Name" xml:space="preserve">
     <value>btnRestoreENBackup</value>
   </data>
   <data name="&gt;&gt;btnRestoreENBackup.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRestoreLargeFilesBackup.Name" xml:space="preserve">
     <value>btnRestoreLargeFilesBackup</value>
   </data>
   <data name="&gt;&gt;btnRestoreLargeFilesBackup.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRestoreStoryBackup.Name" xml:space="preserve">
     <value>btnRestoreStoryBackup</value>
   </data>
   <data name="&gt;&gt;btnRestoreStoryBackup.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRestoreJPNames.Name" xml:space="preserve">
     <value>btnRestoreJPNames</value>
   </data>
   <data name="&gt;&gt;btnRestoreJPNames.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRestoreJPETrials.Name" xml:space="preserve">
     <value>btnRestoreJPETrials</value>
   </data>
   <data name="&gt;&gt;btnRestoreJPETrials.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ButtonItem1.Name" xml:space="preserve">
     <value>ButtonItem1</value>
   </data>
   <data name="&gt;&gt;ButtonItem1.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnUninstallENPatch.Name" xml:space="preserve">
     <value>btnUninstallENPatch</value>
   </data>
   <data name="&gt;&gt;btnUninstallENPatch.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnUninstallLargeFiles.Name" xml:space="preserve">
     <value>btnUninstallLargeFiles</value>
   </data>
   <data name="&gt;&gt;btnUninstallLargeFiles.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnUninstallStory.Name" xml:space="preserve">
     <value>btnUninstallStory</value>
   </data>
   <data name="&gt;&gt;btnUninstallStory.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnJPETrials.Name" xml:space="preserve">
     <value>btnJPETrials</value>
   </data>
   <data name="&gt;&gt;btnJPETrials.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnJPEnemyNames.Name" xml:space="preserve">
     <value>btnJPEnemyNames</value>
   </data>
   <data name="&gt;&gt;btnJPEnemyNames.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ButtonItem2.Name" xml:space="preserve">
     <value>ButtonItem2</value>
   </data>
   <data name="&gt;&gt;ButtonItem2.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnAnalyze.Name" xml:space="preserve">
     <value>btnAnalyze</value>
   </data>
   <data name="&gt;&gt;btnAnalyze.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;Button2.Name" xml:space="preserve">
     <value>Button2</value>
   </data>
   <data name="&gt;&gt;Button2.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ButtonItem10.Name" xml:space="preserve">
     <value>ButtonItem10</value>
   </data>
   <data name="&gt;&gt;ButtonItem10.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnGameguard.Name" xml:space="preserve">
     <value>btnGameguard</value>
   </data>
   <data name="&gt;&gt;btnGameguard.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnFixPSO2EXEs.Name" xml:space="preserve">
     <value>btnFixPSO2EXEs</value>
   </data>
   <data name="&gt;&gt;btnFixPSO2EXEs.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnFixPermissions.Name" xml:space="preserve">
     <value>btnFixPermissions</value>
   </data>
   <data name="&gt;&gt;btnFixPermissions.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnCopyInfo.Name" xml:space="preserve">
     <value>btnCopyInfo</value>
   </data>
   <data name="&gt;&gt;btnCopyInfo.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ButtonItem17.Name" xml:space="preserve">
     <value>ButtonItem17</value>
   </data>
   <data name="&gt;&gt;ButtonItem17.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnResetTweaker.Name" xml:space="preserve">
     <value>btnResetTweaker</value>
   </data>
   <data name="&gt;&gt;btnResetTweaker.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnResumePatching.Name" xml:space="preserve">
     <value>btnResumePatching</value>
   </data>
   <data name="&gt;&gt;btnResumePatching.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnTerminate.Name" xml:space="preserve">
     <value>btnTerminate</value>
   </data>
   <data name="&gt;&gt;btnTerminate.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnOtherStuff.Name" xml:space="preserve">
     <value>btnOtherStuff</value>
   </data>
   <data name="&gt;&gt;btnOtherStuff.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ButtonItem7.Name" xml:space="preserve">
     <value>ButtonItem7</value>
   </data>
   <data name="&gt;&gt;ButtonItem7.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnPredownloadLobbyVideos.Name" xml:space="preserve">
     <value>btnPredownloadLobbyVideos</value>
   </data>
   <data name="&gt;&gt;btnPredownloadLobbyVideos.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnChooseProxyServer.Name" xml:space="preserve">
     <value>btnChooseProxyServer</value>
   </data>
   <data name="&gt;&gt;btnChooseProxyServer.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRevertPSO2ProxyToJP.Name" xml:space="preserve">
     <value>btnRevertPSO2ProxyToJP</value>
   </data>
   <data name="&gt;&gt;btnRevertPSO2ProxyToJP.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnClearSACache.Name" xml:space="preserve">
     <value>btnClearSACache</value>
   </data>
   <data name="&gt;&gt;btnClearSACache.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnInstallPSO2.Name" xml:space="preserve">
     <value>btnInstallPSO2</value>
   </data>
   <data name="&gt;&gt;btnInstallPSO2.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ButtonItem3.Name" xml:space="preserve">
     <value>ButtonItem3</value>
   </data>
   <data name="&gt;&gt;ButtonItem3.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnBumped.Name" xml:space="preserve">
     <value>btnBumped</value>
   </data>
   <data name="&gt;&gt;btnBumped.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnCirno.Name" xml:space="preserve">
     <value>btnCirno</value>
   </data>
   <data name="&gt;&gt;btnCirno.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnArksCash.Name" xml:space="preserve">
     <value>btnArksCash</value>
   </data>
   <data name="&gt;&gt;btnArksCash.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnErrors.Name" xml:space="preserve">
     <value>btnErrors</value>
   </data>
   <data name="&gt;&gt;btnErrors.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnOfficialPSO2JP.Name" xml:space="preserve">
     <value>btnOfficialPSO2JP</value>
   </data>
   <data name="&gt;&gt;btnOfficialPSO2JP.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRegistration.Name" xml:space="preserve">
     <value>btnRegistration</value>
   </data>
   <data name="&gt;&gt;btnRegistration.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnTweaker.Name" xml:space="preserve">
     <value>btnTweaker</value>
   </data>
   <data name="&gt;&gt;btnTweaker.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnRunPSO2Linux.Name" xml:space="preserve">
     <value>btnRunPSO2Linux</value>
   </data>
   <data name="&gt;&gt;btnRunPSO2Linux.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnSymbolEditor.Name" xml:space="preserve">
     <value>btnSymbolEditor</value>
   </data>
   <data name="&gt;&gt;btnSymbolEditor.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnEXPFULL.Name" xml:space="preserve">
     <value>btnEXPFULL</value>
   </data>
   <data name="&gt;&gt;btnEXPFULL.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnDonations.Name" xml:space="preserve">
     <value>btnDonations</value>
   </data>
   <data name="&gt;&gt;btnDonations.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnDonateToBumped.Name" xml:space="preserve">
     <value>btnDonateToBumped</value>
   </data>
   <data name="&gt;&gt;btnDonateToBumped.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnDonateToCirno.Name" xml:space="preserve">
     <value>btnDonateToCirno</value>
   </data>
   <data name="&gt;&gt;btnDonateToCirno.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnDonateToTweaker.Name" xml:space="preserve">
     <value>btnDonateToTweaker</value>
   </data>
   <data name="&gt;&gt;btnDonateToTweaker.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnNewShit.Name" xml:space="preserve">
     <value>btnNewShit</value>
   </data>
   <data name="&gt;&gt;btnNewShit.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;BtnUpdatePso2.Name" xml:space="preserve">
     <value>BtnUpdatePso2</value>
   </data>
   <data name="&gt;&gt;BtnUpdatePso2.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnDownloadPrepatch.Name" xml:space="preserve">
     <value>btnDownloadPrepatch</value>
   </data>
   <data name="&gt;&gt;btnDownloadPrepatch.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnCheckForStoryUpdates.Name" xml:space="preserve">
     <value>btnCheckForStoryUpdates</value>
   </data>
   <data name="&gt;&gt;btnCheckForStoryUpdates.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkAlwaysOnTop.Name" xml:space="preserve">
     <value>chkAlwaysOnTop</value>
   </data>
   <data name="&gt;&gt;chkAlwaysOnTop.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.CheckBoxItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.CheckBoxItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;chkItemTranslation.Name" xml:space="preserve">
     <value>chkItemTranslation</value>
   </data>
   <data name="&gt;&gt;chkItemTranslation.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.CheckBoxItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.CheckBoxItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnConfigureItemTranslation.Name" xml:space="preserve">
     <value>btnConfigureItemTranslation</value>
   </data>
   <data name="&gt;&gt;btnConfigureItemTranslation.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;ItemContainer4.Name" xml:space="preserve">
     <value>ItemContainer4</value>
   </data>
   <data name="&gt;&gt;ItemContainer4.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ItemContainer, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnPSO2Options.Name" xml:space="preserve">
     <value>btnPSO2Options</value>
   </data>
   <data name="&gt;&gt;btnPSO2Options.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnOptions.Name" xml:space="preserve">
     <value>btnOptions</value>
   </data>
   <data name="&gt;&gt;btnOptions.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnPlugins.Name" xml:space="preserve">
     <value>btnPlugins</value>
   </data>
   <data name="&gt;&gt;btnPlugins.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;btnExit.Name" xml:space="preserve">
     <value>btnExit</value>
   </data>
   <data name="&gt;&gt;btnExit.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.ButtonItem, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
   <data name="&gt;&gt;tmrWaitingforPSO2.Name" xml:space="preserve">
     <value>tmrWaitingforPSO2</value>
@@ -8167,12 +8239,12 @@
     <value>DLS</value>
   </data>
   <data name="&gt;&gt;DLS.Type" xml:space="preserve">
-    <value>PSO2_Tweaker.My.MyWebClient, PSO2 Tweaker, Version=3.0.8.4, Culture=neutral, PublicKeyToken=null</value>
+    <value>PSO2_Tweaker.My.MyWebClient, PSO2 Tweaker, Version=3.0.8.5, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>FrmMain</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>DevComponents.DotNetBar.Office2007Form, DevComponents.DotNetBar2, Version=8.2.0.2, Culture=neutral, PublicKeyToken=5fd520d36328f741</value>
+    <value>DevComponents.DotNetBar.Office2007Form, DevComponents.DotNetBar2, Version=12.1.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b</value>
   </data>
 </root>

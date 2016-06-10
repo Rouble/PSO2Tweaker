@@ -3528,6 +3528,10 @@ Public Class FrmMain
     End Sub
 
     Private Sub btnLargeFilesTRANSAM_Click(sender As Object, e As EventArgs) Handles btnLargeFilesTRANSAM.Click
+        DownloadLargeFilesTRANSAM()
+    End Sub
+
+    Private Sub DownloadLargeFilesTRANSAM()
         'Install Large Files with TRANSAM to cut down on net costs for Agrajag and friends.
         'Need to speak with Agrajag and get some files before I can do this, though.
         Try
@@ -3813,5 +3817,11 @@ Public Class FrmMain
     Private Sub btnInstallGermanPatch_Click(sender As Object, e As EventArgs) Handles btnInstallGermanPatch.Click
         Dim url As String = Program.Client.DownloadString("http://107.170.16.100/patches/depatch.txt")
         DownloadPatch(url, GermanPatch, "DEPatch.zip", RegKey.NullKey, "Would you like to backup your files before applying the patch? This will erase all previous German Patch backups." & vbCrLf & "Möchtest du eine Sicherung erstellen, bevor Änderungen am Spiel vorgenommen werden? Damit werden alle vorherigen Sicherungen des deutschen Patchs gelöscht.", "Please select the pre-downloaded German Patch ZIP file." & vbCrLf & "Bitte wähle die zuvor heruntergeladene ZIP-Datei des deutschen Patchs aus.")
+    End Sub
+
+    Private Sub btnAllEngPatches_Click(sender As Object, e As EventArgs) Handles btnAllEngPatches.Click
+        DownloadEnglishPatch()
+        DownloadLargeFilesTRANSAM()
+        InstallStoryPatchNew()
     End Sub
 End Class
